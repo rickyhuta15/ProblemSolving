@@ -1,5 +1,5 @@
-## ProblemSolving 1
-ini adalah asset Problem Solving 1 dimana memnita bentuk linkaran di tengah
+## ProblemSolving 7
+ini adalah asset Problem Solving 7 dimana memnita bentuk linkaran di tengah dapat menghancurkan object dan mendapatkan score
 ## Hasil build
 Link:
-https://github.com/rickyhuta15/ProblemSolving/releases/tag/Problem1
+
