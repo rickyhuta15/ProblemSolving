@@ -264,7 +264,6 @@ GameObject:
   - component: {fileID: 300246672}
   - component: {fileID: 300246671}
   - component: {fileID: 300246669}
-  - component: {fileID: 300246670}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -281,29 +280,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 300246668}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fed60c765edf7164f8696e7628cf1ceb, type: 3}
+  m_Script: {fileID: 11500000, guid: 8908b69724afb874881dd4b6d1be5351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  upButton: 119
-  downButton: 115
-  rightButton: 100
-  leftButton: 97
-  speed: 10
-  yBoundary: 9
-  rigidBody2D: {fileID: 300246672}
---- !u!114 &300246670
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 300246668}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0682d3e1de3756d40860f17e29012e4f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Kotak: {fileID: 1334071444744833995, guid: 0c9c7c20f249add4ab5f8afe17c38cbc, type: 3}
+  speed: 5
 --- !u!58 &300246671
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -378,7 +358,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 6c094768101be1f439df0584e4db77ef, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d51f207cc4da53348830d7b0b00b4173, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
